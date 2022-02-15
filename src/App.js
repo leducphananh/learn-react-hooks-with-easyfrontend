@@ -20,7 +20,7 @@ function App() {
       <Nav tabs>
         <NavItem>
           <NavLink>
-            <Link to="/">Home</Link>
+            <Link to="/learn-react-hooks-with-easyfrontend">Home</Link>
           </NavLink>
         </NavItem>
         <NavItem>
@@ -46,9 +46,7 @@ function App() {
       </Nav>
 
       <Routes>
-        <Route path="/learn-react-hooks-with-easyfrontend" element={<Navigate replace to="/" />} />
-
-        <Route path="/" element={<HomePage />} />
+        <Route path="/learn-react-hooks-with-easyfrontend" element={<HomePage />} />
         <Route path="/clock" element={<ClockPage />} />
         <Route path="/box" element={<BoxPage />} />
         <Route path="/todos" element={<TodosPage />} />
