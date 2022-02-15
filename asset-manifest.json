@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/learn-react-hooks-with-easyfrontend/static/css/main.fd419b24.css",
-    "main.js": "/learn-react-hooks-with-easyfrontend/static/js/main.a360bb4f.js",
+    "main.js": "/learn-react-hooks-with-easyfrontend/static/js/main.a2466568.js",
     "static/js/787.4d5851cf.chunk.js": "/learn-react-hooks-with-easyfrontend/static/js/787.4d5851cf.chunk.js",
     "index.html": "/learn-react-hooks-with-easyfrontend/index.html",
     "main.fd419b24.css.map": "/learn-react-hooks-with-easyfrontend/static/css/main.fd419b24.css.map",
-    "main.a360bb4f.js.map": "/learn-react-hooks-with-easyfrontend/static/js/main.a360bb4f.js.map",
+    "main.a2466568.js.map": "/learn-react-hooks-with-easyfrontend/static/js/main.a2466568.js.map",
     "787.4d5851cf.chunk.js.map": "/learn-react-hooks-with-easyfrontend/static/js/787.4d5851cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd419b24.css",
-    "static/js/main.a360bb4f.js"
+    "static/js/main.a2466568.js"
   ]
 }
