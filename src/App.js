@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Link, Route, Routes } from 'react-router-dom';
+import { Link, Navigate, Route, Routes } from 'react-router-dom';
 import { Nav, NavItem, NavLink } from 'reactstrap';
 import './App.scss';
 import BoxPage from './pages/BoxPage';
@@ -46,6 +46,8 @@ function App() {
       </Nav>
 
       <Routes>
+        <Route path="/learn-react-hooks-with-easyfrontend" element={<Navigate replace to="/" />} />
+
         <Route path="/" element={<HomePage />} />
         <Route path="/clock" element={<ClockPage />} />
         <Route path="/box" element={<BoxPage />} />
